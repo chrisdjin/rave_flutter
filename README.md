@@ -17,7 +17,7 @@ A robust Flutter plugin for accepting payment on Rave with
 - [x] ACH Payments
 - [x] Mobile money Francophone Africa
 - [x] Mpesa
-- [ ] Ghana Mobile Money
+- [X] Ghana Mobile Money
 - [ ] Uganda Mobile Money
 
 
